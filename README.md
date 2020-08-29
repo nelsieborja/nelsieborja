@@ -1,10 +1,13 @@
-## Hi there, and welcome to my profile! 👋 👽
+## Hello, welcome to my profile! 👋 👽
 
-#### For a start, just sharing some of my fave projects:
-* Mobile App - soon
-* [Carrefour Makeover](https://nextjs-apollo-graphql.herokuapp.com/user) - UI/UX + Full Stack Dev
-* [Gorg UI](https://gorg-ui-v2.netlify.app/) ([demo](https://gorg-ui-demo.now.sh/)) - UI Library
-* [Qdos Creative](https://qdoscreative.now.sh/) - Animated Website
+#### [iOS App](https://apps.apple.com/app/id1528411584)
 
+![uCounter](https://github.com/nelsieborja/nelsieborja/blob/master/uCounter-light.png?raw=true)
 
-~ Happy coding & stay safe 😷
+#### Other Projects
+
+- [Carrefour Makeover](https://nextjs-apollo-graphql.herokuapp.com/user) - UI/UX + Full Stack Dev
+- [Gorg UI](https://gorg-ui-v2.netlify.app/) ([demo](https://gorg-ui-demo.now.sh/)) - UI Library
+- [Qdos Creative](https://qdoscreative.now.sh/) - Animated Website
+
+~ Happy coding and stay safe 😷
